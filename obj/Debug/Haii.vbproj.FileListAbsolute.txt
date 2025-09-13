@@ -1,0 +1,13 @@
+C:\Users\WINDOWS\source\repos\Haii\Haii\bin\Debug\Haii.exe.config
+C:\Users\WINDOWS\source\repos\Haii\Haii\bin\Debug\Haii.exe
+C:\Users\WINDOWS\source\repos\Haii\Haii\bin\Debug\Haii.pdb
+C:\Users\WINDOWS\source\repos\Haii\Haii\bin\Debug\Haii.xml
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.Form1.resources
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.Resources.resources
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.vbproj.GenerateResource.cache
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.exe
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.xml
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.pdb
+C:\Users\WINDOWS\source\repos\Haii\Haii\obj\Debug\Haii.exe.config
